@@ -4,11 +4,11 @@ Welcome to the 2D Snake Game! This repository contains a simple implementation o
 
 Features:
 
-Classic Snake gameplay: control the snake to eat food and grow longer.
-Responsive design: works on various screen sizes.
-Basic scoring system: track your score based on the number of food items collected.
-Simple controls: use the arrow keys to navigate the snake.
-Game Over Conditions: The game ends if the snake collides with the walls or itself.
+1) Classic Snake gameplay: control the snake to eat food and grow longer.
+2) Responsive design: works on various screen sizes.
+3) Basic scoring system: track your score based on the number of food items collected.
+4) Simple controls: use the arrow keys to navigate the snake.
+5) Game Over Conditions: The game ends if the snake collides with the walls or itself.
 
 
 Technologies Used:
