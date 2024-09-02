@@ -13,6 +13,6 @@ Features:
 
 Technologies Used:
 
-HTML: Structure of the game and game board.
-CSS: Styling the game and ensuring it looks good on different devices.
-JavaScript: Game logic, controls, and interactions.
+1) HTML: Structure of the game and game board.
+2)CSS: Styling the game and ensuring it looks good on different devices.
+3)JavaScript: Game logic, controls, and interactions.
